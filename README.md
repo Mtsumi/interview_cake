@@ -18,6 +18,10 @@ To run the solutions, you can clone this repository to your local machine and ru
 
 If you have any suggestions for improving the solutions in this repository or would like to contribute your own solutions, feel free to submit a pull request. All contributions are welcome and appreciated!
 
+## License
+
+This program is licensed under the MIT License. See the `LICENSE` file for details.
+
 ## Contact
 
 If you have any questions or comments about this repository, feel free to contact me at [mtsumijr@gmail.com](mailto:mtsumijr@gmail.com).
